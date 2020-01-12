@@ -62,3 +62,26 @@
 .btn-gray:hover {
     background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Main inspirations - START */
+#inspirations {
+    padding-top: 130px;
+    padding-bottom: 120px;
+}
+
+/* Main inspirations - END */
+
+
+
+.span-footer {
+    color: #e38f42;
+}
+
+a {
+    color: #e38f42;
+    transition: all .3s;
+}
+
+a:hover {
+    color: #e38f42;
+}
